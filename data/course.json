@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2019",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ]
+  ],
+  "legacy_uid": "1d8aa69e-9022-ee19-c5e2-afa9a301fcda",
+  "instructors": {
+    "content": [
+      "2bd46f89-da99-8df3-5ac3-14ac12789f96"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6904226d-d340-7b4f-5244-8c34815663d7",
+    "website": "18-783-elliptic-curves-spring-2019"
+  },
+  "course_title": "Elliptic Curves",
+  "course_description": "This graduate-level course is a computationally focused introduction to elliptic curves, with applications to number theory and cryptography.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.783",
+  "course_image_thumbnail": {
+    "content": "8b998d16-2680-304f-9631-b5f54e8622a3",
+    "website": "18-783-elliptic-curves-spring-2019"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "ea75e2c3-d48e-4561-97d7-146775b676df",
+  "title": "Course Metadata"
+}
