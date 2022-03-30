@@ -45,11 +45,11 @@ Curriculum Information
 
 ### Prerequisites
 
-A course in algebra covering groups, rings, and fields, such as [_18.703 Modern Algebra_](/courses/18-703-modern-algebra-spring-2013/).
+A course in algebra covering groups, rings, and fields, such as [_18.703 Modern Algebra_](/courses/18-703-modern-algebra-spring-2013).
 
 ### Corequisite
 
-[_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011/)
+[_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011)
 
 ### Requirements Satisfied
 
